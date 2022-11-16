@@ -12,17 +12,17 @@
 
 * `apt update`
 * `apt install git curl php openssh-server -y`
-* `git clone git://github.com/Optane002/ZPhisher.git`
+* `git clone https://github.com/Vikaralkumar/zphisher.git`
 * `cd ZPhisher`
 #### > Run : `bash ZPhisher.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl php openssh-server -y ; git clone git://github.com/Optane002/ZPhisher.git ; cd ZPhisher ; bash ZPhisher.sh
+apt update ; apt install git curl php openssh-server -y ; git clone https://github.com/Vikaralkumar/zphisher ; cd ZPhisher ; bash ZPhisher.sh
 ```
 <br>
 <p align="center">
-<img width="51%" src="https://github.com/Optane002/ZPhisher/blob/docker-legacy/Kali%20Linux%2023_10_2020%2001_03_00.png"/>
+<img width="51%" src="https://github.com/Vikaralkumar/zphisher/blob/main/Kali%20Linux%2023_10_2020%2001_03_00.pngg"/>
 <img width="51%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/zphisher2.png"/>
 </p>
 
